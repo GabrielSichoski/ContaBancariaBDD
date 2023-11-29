@@ -24,3 +24,9 @@ Com as sugestões e seguindo o foi passado criar a classe conta e importar as ne
 Criação do javadoc
 ![image](https://github.com/GabrielSichoski/ContaBancaria/assets/104863390/c26f0485-cce5-47ee-832a-250b90a68fd6)
 
+## Sexto passo
+
+![image](https://github.com/GabrielSichoski/ContaBancariaBDD/assets/104863390/90bddb33-d960-412c-9f06-8d8ae81b379a)
+
+![image](https://github.com/GabrielSichoski/ContaBancariaBDD/assets/104863390/66f3f154-6ce6-4473-8e4a-f7794d3a6e3f)
+
